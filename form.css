@@ -1,0 +1,15 @@
+.container{
+    border: 2px solid salmon;
+    color: black;
+    background-color: white;
+    height: 50%;
+    width: 50%;
+    position: absolute;
+    top: 10%;
+    right: 25%;
+    left: 25%;
+    bottom: 200px;
+}
+body{
+    background-color: black;
+}
