@@ -1,0 +1,23 @@
+
+.li{
+   
+}
+
+.last{
+    display: flex;
+    flex-direction: row;
+}
+
+.lst{
+    position: absolute;
+    right: 0;
+    top:60px;
+    
+    
+    
+
+}
+
+body{
+    background-color: #343a40;
+}

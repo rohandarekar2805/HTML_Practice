@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.head{
+    background-color: rgb(228, 204, 160);    
+    padding: 35px;
+}
+
+.menu{
+    background-color: rgb(232, 232, 232);          
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding-left: 15px;
+}
+
+.list{
+    background-color: rgb(215, 235, 241);
+    height: 443px;
+}
+
+li{
+    padding-top: 20px;
+}
+
+ul{
+    padding-top: 5px;
+    padding-left: 25px;
+}
+
+h3{
+    padding: 30px 0px 0px 35px;
+}
+
+.footer{
+    background-color: rgb(232, 232, 232); 
+    padding: 10px;         
+    text-align: end;
+    padding-right: 30px;
+}
+
+.content{
+    padding: 0px 30px 0px 35px;
+}

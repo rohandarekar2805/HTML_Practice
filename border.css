@@ -1,0 +1,22 @@
+#first{
+    border: 2px solid blueviolet;
+    border-style: dashed dotted ;
+    width: fit-content;
+    margin: auto;
+    border-radius: 10px;
+   
+
+}
+#second{
+    border: 2px dashed red ;
+    width: fit-content;
+    border-style: dashed dotted ;
+    margin: 17% auto;
+   
+   
+}
+h3{
+    border: 2px solid salmon;
+    width: fit-content;
+    margin: auto;
+}

@@ -1,0 +1,17 @@
+p{
+    column-count: 3;
+    column-rule: 5px solid red;
+    text-align: justify;
+    column-gap: 40px;
+    font-size: 25px;
+    text-decoration-style:solid;
+}
+p::first-letter{
+    font-style: bold;
+    font-size: 3rem;
+}
+h1{
+    text-decoration: underline;
+    
+    text-align: center;
+}

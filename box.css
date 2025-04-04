@@ -1,0 +1,60 @@
+.parent{
+    border: 2px solid green;
+    background-color: gray;
+    margin: 5px;
+    width: 800px;
+    height: 800px;
+    margin: auto;
+    position: relative;
+    text-align: center;
+    
+    display: flex;
+   gap: 20px;
+   /* justify-content: end; */
+   justify-content: center;
+   align-items: center;
+   /* align-items: end; */
+
+    
+}
+.child1{
+    border:2px solid black ;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+   
+    
+}
+
+.child2{
+    border:2px solid black ;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.child3{
+    border:2px solid black ;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+   
+
+}
+
+.child4{
+    border:2px solid black ;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+   
+}
+
+.child5{
+    border:2px solid black ;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    
+}

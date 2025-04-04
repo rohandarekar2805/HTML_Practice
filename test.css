@@ -1,0 +1,18 @@
+.container{
+    background-color: aqua;
+    font-family: bold;
+}
+
+#first{
+    color: blueviolet;
+}
+#first::first-letter{
+    text-transform: capitalize;
+}
+#first::before{
+    content: "@";
+}
+h1:hover{
+    color: red;
+    background-color: black;
+}

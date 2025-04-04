@@ -1,0 +1,17 @@
+p{
+    display: inline-block;
+    border: 2px solid red;
+    background-color: gray;
+    margin: 20px;
+    width: 10%;
+    height: 30px;
+}
+a{
+    border: 2px solid salmon;
+    width: 400px;
+    height: 200px;
+    display: inline-block;
+    background-color: gray;
+    gap: 50px;
+    margin: 20px;
+}
